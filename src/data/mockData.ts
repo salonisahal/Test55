@@ -7,6 +7,7 @@ export const subjects: Subject[] = [
   { id: 'sub-3', title: 'Biology', color: colors.primary, icon: 'leaf' },
   { id: 'sub-4', title: 'History', color: colors.warning, icon: 'book' },
   { id: 'sub-5', title: 'Chemistry', color: colors.primaryLight, icon: 'flask' },
+  { id: 'sub-6', title: 'Dance', color: colors.warning, icon: 'musical-notes' },
 ];
 
 export const lessons: Lesson[] = [
